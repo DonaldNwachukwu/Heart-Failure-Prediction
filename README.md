@@ -66,16 +66,7 @@ Outlier Detection & Treatment — boxplots, IQR method, capping applied to Chole
 
 ## Conclusion
 
-This project provided a clear view of the factors associated with employee attrition. The findings can help organizations better understand workforce behavior and make informed decisions to improve employee retention.
-
-## Recommendations
-
-Based on the analysis, the following recommendations are suggested:
-
-- Improve employee engagement and job satisfaction.
-- Review compensation structures to ensure competitiveness.
-- Strengthen workplace support and communication.
-- Monitor employees who may be at higher risk of leaving.
+The preprocessing pipeline transformed 918 patient records into a machine-learning-ready dataset. The target variable is reasonably balanced (55.3% heart disease vs. 44.7% normal), so no resampling was needed. Numeric features (Age, RestingBP, Cholesterol, MaxHR, Oldpeak) were correctly standardized, confirmed by mean ≈ 0 and std ≈ 1 across all five.
 
 ## How to Run the Project
 
