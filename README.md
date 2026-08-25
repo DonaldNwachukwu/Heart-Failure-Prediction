@@ -42,8 +42,6 @@ The objective is to predict the likelihood of a patient developing heart disease
 ├── data_dictionary/
 │   └── Data_Dictionary.md                      # Updated Week 3 with engineered features
 │
-├── images/
-│   └── (exported chart images used in reports)
 │
 ├── README.md
 └── requirements.txt
