@@ -19,6 +19,8 @@ Therefore, a heart failure prediction model would be effective in detecting the 
 The objective is to predict the likelihood of a patient developing heart disease based on 11 clinical and diagnostic features, producing a dataset that is clean, well-structured, and ready for predictive modelling.
 
 ## 📂 Repository Structure heart-failure-prediction/
+```
+
 │
 ├── data/
 │   ├── raw/
@@ -45,6 +47,8 @@ The objective is to predict the likelihood of a patient developing heart disease
 │
 ├── README.md
 └── requirements.txt
+
+```
 
 ## Dataset 📊 
 
